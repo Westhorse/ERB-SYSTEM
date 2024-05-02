@@ -1,0 +1,11 @@
+<?php
+
+
+namespace Modules\Warehouse\Repositories\IRepositories\Product;
+
+use App\Repositories\IRepositories\IBaseRepository;
+
+interface IProductDeterminantRepository extends IBaseRepository
+{
+    public function  names();
+}

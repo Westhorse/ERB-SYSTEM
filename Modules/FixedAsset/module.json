@@ -1,0 +1,13 @@
+{
+    "name": "FixedAsset",
+    "alias": "fixedasset",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FixedAsset\\Providers\\FixedAssetServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
